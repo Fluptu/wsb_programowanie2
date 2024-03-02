@@ -1,1 +1,1 @@
-# wsb_programowanie2
+# WSB Programowanie zaawansowane II
